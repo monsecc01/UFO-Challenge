@@ -1,7 +1,15 @@
 # UFO-Challenge
 
 ## Resources
-Data Source: [election_results.csv](https://github.com/monsecc01/Election-Analysis/blob/9bea6ec438ec9c0f408b33f3377d84d3235eaafa/election_results.csv)
+Data Source: 
+
+[index.html](https://github.com/monsecc01/UFO-Challenge/blob/800fdffd0c460aab27be917dce44d1c478d10114/index.html)
+
+[data.js](https://github.com/monsecc01/UFO-Challenge/blob/800fdffd0c460aab27be917dce44d1c478d10114/static/js/data.js)
+
+[app.js](https://github.com/monsecc01/UFO-Challenge/blob/800fdffd0c460aab27be917dce44d1c478d10114/static/js/app.js)
+
+[style.css](https://github.com/monsecc01/UFO-Challenge/blob/800fdffd0c460aab27be917dce44d1c478d10114/static/CSS/style.css)
 
 Software: Visual Studio Code 1.55.1
 
