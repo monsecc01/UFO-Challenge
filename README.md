@@ -45,5 +45,5 @@ One drawback of being able to filter by multiple criteria is that now we have to
 
 Two recommendations for further development are:
 1.  Add a "reset" button to facilitate resetting the table.
-2.  A drop down calendar for the date field would make entering dates easier. An added benefit could be the elimination of date format errors by automatically populating the date picked into the field.
+2.  A drop down calendar for the date field would make entering dates easier. An added benefit could be the elimination of date formatting errors by automatically populating the date picked into the field.
 
